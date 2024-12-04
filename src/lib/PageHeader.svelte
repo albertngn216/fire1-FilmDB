@@ -144,7 +144,6 @@
 
             <SignedOut let:auth>
                 <div class="siButton">
-                    >
                     <p class="type">FACEBOOK POPUP</p>
                     <p class="note">Not quite working</p>
                     <button
