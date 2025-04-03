@@ -25,7 +25,8 @@
         "firebase": "^9.23.0",
         "firebase-admin": "^13.0.0",
         "firestore": "^1.1.6",
-        "postgres": "^3.4.4",
+        "npm": "^11.2.0",
+        "postgres": "^3.4.5",
         "sveltefire": "^0.4.5",
         "vite-plugin-mkcert": "^1.17.5"
     }
