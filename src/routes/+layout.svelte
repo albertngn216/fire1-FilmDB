@@ -26,7 +26,7 @@
         appId: PUBLIC_FIREBASE_APP_ID,
     };
     // Initialize Firebase
-    const app = initializeApp(firebaseConfig);
+    const app = initializeApp(firebaseConfig, "FilmDB");
     const firestore = getFirestore(app);
     const auth = getAuth(app);
 </script>
